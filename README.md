@@ -1,7 +1,7 @@
 # COMP150_F26_Project1
 Template code for COMP150_F26_Project1
 
-## Team
+## Team 5 (PANDA)
 Stephen Sarfo, Jessica Calderon, Stephen Gutierrez
 
 
