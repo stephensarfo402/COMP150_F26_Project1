@@ -2,7 +2,9 @@
 Template code for COMP150_F26_Project1
 
 ## Team
-Add all teammates names below
+Stephen Sarfo, Jessica Calderon, Stephen Gutierrez
+
+
 
 ## Files
 `project1.py` - the file you need to edit as a team. You'll need to write code for the `encode()` and `decode()` functions. You are also expected to write helper functions to help you solve ciphered messages. 
